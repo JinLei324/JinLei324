@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on mobile and web developing.
-- 🌱 I’m currently learning everything I can find.
 - 👯 I’m looking to collaborate on mobile and web projects.
 - 📱 Phone: +8615811290192
 - 📫 Email: xiaojinteacher@gmail.com 
