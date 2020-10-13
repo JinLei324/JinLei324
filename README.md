@@ -7,5 +7,5 @@
 - 📫 Email: xiaojinteacher@gmail.com 
 
 
-[![JinLei's Linked In](<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />)](https://www.linkedin.com/in/jin-lei-b062b118b/)
+[![JinLei's Linked In](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jin-lei-b062b118b/)
 
